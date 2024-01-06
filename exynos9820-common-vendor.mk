@@ -110,6 +110,8 @@ PRODUCT_PACKAGES += \
     libiwt \
     libkeymaster_helper \
     libril-samsung \
+    libsec-ril-dsds \
+    libsec-ril \
     libsensorlistener \
     libskeymaster4device \
     libuniapi \
